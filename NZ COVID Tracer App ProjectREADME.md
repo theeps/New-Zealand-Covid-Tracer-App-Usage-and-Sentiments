@@ -26,8 +26,13 @@ The results of this study will provide a more holistic picture of the performanc
 The findings will highlight gaps and provide opportunities for future research to enhance the design and use of the NZ COVID Tracer App. 
 
 Data sources:
+
 •	Google Play Store Reviews of NZ COVID Tracer App: https://play.google.com/store/apps/details?id=nz.govt.health.covidtracer&hl=en_NZ&gl=US
+
 •	Apple App Store Reviews of NZ COVID Tracer App: https://apps.apple.com/nz/app/nz-covid-tracer/id1511667597 
+
 •	Ministry of Health NZ Tracer App data: https://www.health.govt.nz/our-work/diseases-and-conditions/covid-19-novel-coronavirus/covid-19-data-and-statistics/covid-19-nz-covid-tracer-app-data 
+
 •	Twitter
+
 •	Reddit: r/newzealand
